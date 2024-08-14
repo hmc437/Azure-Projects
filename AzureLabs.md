@@ -1,0 +1,2 @@
+Lab 1: Create a Virtual Machine in the Portal
+Creación de máquina virtual desde el Azure Portal. Selección de opciones y parámetros para la máquina virtual así como sistema operativo, tamaño de la instancia, configuración de red, de administración y de cómo conectarse a ella. Luego, acceso a ella con RDP e instlación de servidor de Windows. Por último, comprobación de que se puede acceder públicamente al servidor con la dirección IP pública de la máquina virtual.
